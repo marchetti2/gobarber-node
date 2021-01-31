@@ -18,7 +18,7 @@ To see the **new version** of GoBarber,refactored with typescript and new patter
     - [Databases](#databases)
     - [Environment variables](#variables)
   - [Running the API](#running)
-    - [Tolls](#tools)
+    - [Tools](#tools)
 - [License](#license)
 
 <h2 id="technologies">Technologies</h2>
