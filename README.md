@@ -7,6 +7,8 @@ This repository is **only the backend** of the application, the web and mobile v
 
 With Gobarber it is possible to register and make an appointment/service with your barber and/or become a provider of these services.
 
+To see the **new version** of GoBarber,refactored with typescript and new patterns, [click here](https://github.com/marchetti2/GobarberNodeNewJourney).
+
 <h2>Summary</h2>
 
 - [Technologies](#technologies)
