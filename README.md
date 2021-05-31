@@ -62,10 +62,10 @@ Open the terminal and execute the following commands:
 
 ```bash
   # Clone the project
-  $ git clone https://github.com/marchetti2/GoBarberNode.git
+  $ git clone https://github.com/marchetti2/gobarber-node.git
 
   # Access the folder
-  $ cd GoBarberNode
+  $ cd gobarber-node
 
   # Install the dependencies
   $ yarn
